@@ -38,7 +38,7 @@ public class TestingListaLigada {
         System.out.println("------------------------------------------");
         System.out.println("Contenido de la lista ligada: ");
         lista.printList();
-        
+         
          System.out.println("------------------------------------------");
         System.out.println("Inserción de un nuevo nodo");
         System.out.println("Escribe el elemento a insertar: ");
